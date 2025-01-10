@@ -2,8 +2,8 @@ This is a simple repository to ask and print the name the user inputs
 
 # This program only uses two commands
 ```
-input
-print
+name = input("Enter your name")
+print(f"Hello {name}")
 ```
 ## About Me
 ### *My Name*
